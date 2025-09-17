@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 "# gfe" 
 "# docker-frontend" 
 "# docker-backend" 
+"# docker-backend" 
